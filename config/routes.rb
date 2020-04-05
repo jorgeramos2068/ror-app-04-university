@@ -3,5 +3,5 @@ Rails.application.routes.draw do
   # Root
   root 'courses#index'
   # Pages
-  #get 'about', to: 'pages#about'
+  get 'about', to: 'pages#about'
 end

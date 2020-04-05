@@ -1,11 +1,13 @@
-# README
+# RoR App - University
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic Ruby on Rails application with CRUD operations and Material Design.
 
-Things you may want to cover:
+
+## Features:
 
 * Ruby version
+
+  - ruby-2.6.3
 
 * System dependencies
 
@@ -20,5 +22,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
