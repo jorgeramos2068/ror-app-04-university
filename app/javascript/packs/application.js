@@ -4,6 +4,7 @@
 // that code so it'll be compiled.
 
 require("@rails/ujs").start()
+require("jquery")
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
@@ -15,4 +16,8 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
-import 'materialize-css/dist/js/materialize'
+
+// Materialize
+import "materialize-css/dist/js/materialize"
+// Additional JavaScript
+require("packs/custom")
